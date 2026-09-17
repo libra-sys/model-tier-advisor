@@ -83,7 +83,7 @@ AGENTS.md                      L0 core    87 t   ← the only file in context
 AGENTS.zh-CN.md                Chinese   118 t
 rules/tier-table.md            rubric    869 t   on demand
 rules/models.md                mapping 1,075 t   on demand
-rules/go-mode.md               go-mode   917 t   on demand
+rules/go-mode.md               go-mode   1,474 t on demand
 modules/skill-expert.md        optional 1,062 t  off by default
 guides/subscription-choice.md  humans only — never in context
 METHODOLOGY.md                 humans only — never in context
